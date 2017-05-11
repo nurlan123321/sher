@@ -1,6 +1,6 @@
 Laravel 5, MySQL
 
-git clone https://github.com/nurlan123321/gallery.git
+git clone https://github.com/nurlan123321/sher.git
 
 Database dump : DATABASE_DUMP.sql
 
